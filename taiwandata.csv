@@ -1,0 +1,9 @@
+Economic Freedom Summary Index,1  Size of Government,2  Legal System & Property Rights,3  Sound Money,4  Freedom to trade internationally,5  Regulation,Return,Risk
+,0.78 (p-value: 0.0000),0.88 (p-value: 0.0000),0.36 (p-value: 0.1111),-0.18 (p-value: 0.4399),0.84 (p-value: 0.0000),0.03 (p-value: 0.8950),-0.31 (p-value: 0.1757)
+0.78 (p-value: 0.0000),,0.80 (p-value: 0.0000),0.13 (p-value: 0.5852),-0.57 (p-value: 0.0067),0.84 (p-value: 0.0000),-0.18 (p-value: 0.4444),-0.24 (p-value: 0.2899)
+0.88 (p-value: 0.0000),0.80 (p-value: 0.0000),,0.26 (p-value: 0.2515),-0.55 (p-value: 0.0096),0.93 (p-value: 0.0000),-0.09 (p-value: 0.7076),-0.05 (p-value: 0.8391)
+0.36 (p-value: 0.1111),0.13 (p-value: 0.5852),0.26 (p-value: 0.2515),,0.12 (p-value: 0.6122),0.11 (p-value: 0.6356),0.28 (p-value: 0.2156),-0.29 (p-value: 0.2066)
+-0.18 (p-value: 0.4399),-0.57 (p-value: 0.0067),-0.55 (p-value: 0.0096),0.12 (p-value: 0.6122),,-0.65 (p-value: 0.0015),0.16 (p-value: 0.4906),-0.18 (p-value: 0.4269)
+0.84 (p-value: 0.0000),0.84 (p-value: 0.0000),0.93 (p-value: 0.0000),0.11 (p-value: 0.6356),-0.65 (p-value: 0.0015),,0.01 (p-value: 0.9802),-0.16 (p-value: 0.4909)
+0.03 (p-value: 0.8950),-0.18 (p-value: 0.4444),-0.09 (p-value: 0.7076),0.28 (p-value: 0.2156),0.16 (p-value: 0.4906),0.01 (p-value: 0.9802),,-0.65 (p-value: 0.0015)
+-0.31 (p-value: 0.1757),-0.24 (p-value: 0.2899),-0.05 (p-value: 0.8391),-0.29 (p-value: 0.2066),-0.18 (p-value: 0.4269),-0.16 (p-value: 0.4909),-0.65 (p-value: 0.0015),

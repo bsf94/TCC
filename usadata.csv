@@ -1,0 +1,9 @@
+EFW_Index,GovSize,LegalSystem,SoundMoney,TradeFreedom,Regulation,Return,Risk
+,0.92 (p-value: 0.0000),0.83 (p-value: 0.0000),-0.07 (p-value: 0.7662),0.85 (p-value: 0.0000),0.42 (p-value: 0.0570),-0.33 (p-value: 0.1462),-0.39 (p-value: 0.0830)
+0.92 (p-value: 0.0000),,0.60 (p-value: 0.0041),-0.02 (p-value: 0.9199),0.70 (p-value: 0.0004),0.47 (p-value: 0.0323),-0.24 (p-value: 0.2871),-0.53 (p-value: 0.0128)
+0.83 (p-value: 0.0000),0.60 (p-value: 0.0041),,-0.34 (p-value: 0.1293),0.91 (p-value: 0.0000),-0.01 (p-value: 0.9821),-0.40 (p-value: 0.0731),0.09 (p-value: 0.7034)
+-0.07 (p-value: 0.7662),-0.02 (p-value: 0.9199),-0.34 (p-value: 0.1293),,-0.41 (p-value: 0.0641),0.44 (p-value: 0.0483),0.43 (p-value: 0.0492),-0.50 (p-value: 0.0196)
+0.85 (p-value: 0.0000),0.70 (p-value: 0.0004),0.91 (p-value: 0.0000),-0.41 (p-value: 0.0641),,-0.07 (p-value: 0.7522),-0.35 (p-value: 0.1176),0.00 (p-value: 0.9904)
+0.42 (p-value: 0.0570),0.47 (p-value: 0.0323),-0.01 (p-value: 0.9821),0.44 (p-value: 0.0483),-0.07 (p-value: 0.7522),,-0.10 (p-value: 0.6657),-0.74 (p-value: 0.0001)
+-0.33 (p-value: 0.1462),-0.24 (p-value: 0.2871),-0.40 (p-value: 0.0731),0.43 (p-value: 0.0492),-0.35 (p-value: 0.1176),-0.10 (p-value: 0.6657),,-0.37 (p-value: 0.1009)
+-0.39 (p-value: 0.0830),-0.53 (p-value: 0.0128),0.09 (p-value: 0.7034),-0.50 (p-value: 0.0196),0.00 (p-value: 0.9904),-0.74 (p-value: 0.0001),-0.37 (p-value: 0.1009),
