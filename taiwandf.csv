@@ -1,4 +1,4 @@
-Year,Economic Freedom Summary Index,1  Size of Government,2  Legal System & Property Rights,3  Sound Money,4  Freedom to trade internationally,5  Regulation,Return,Risk
+Year,EFW_Index,GovSize,LegalSystem,SoundMoney,TradeFreedom,Regulation,Return,Risk
 2020,7.68,7.63,7.16,9.58,6.31,7.71,-1.0,0.9706935579
 2019,8.1,7.72,7.1,9.74,7.89,8.05,0.157349876,0.1014347054
 2018,8.05,7.67,7.1,9.72,7.72,8.05,-0.1055072429,0.1233498571
